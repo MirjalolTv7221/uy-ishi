@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(230, 214, 187);
+}
+
+
+.ss{
+    list-style: none;
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px
+}
+
+.zz{
+    text-align: center;
+}
+
+.dd{
+    width: 400px;
+ height: 400px; 
+ background-color: rgb(241, 237, 237);
+color: black;
+ display: flex;
+ justify-content: center;
+ align-items: center
+
+}
+
+.father{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.aa{
+    text-align: center;
+}
+
+.nn{
+    background-color: red;
+    color: antiquewhite;
+}
+
+
+.ww{
+   
+    text-align: center;
+    
+
+
+}
